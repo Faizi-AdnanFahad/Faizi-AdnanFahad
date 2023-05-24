@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Faizi-AdnanFahad)
+
 ### Hi there 👋
 
 - 🔭 I'm a 3rd year Computer Science student @Lassonde School of Engineering, York University located in Toronto, Ontario.
