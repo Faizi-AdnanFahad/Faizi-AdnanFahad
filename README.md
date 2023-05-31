@@ -15,12 +15,12 @@
 
 ### <p align="center">Some of my Technical Skills</p>
 <p align="center">
-  <a href="https://rupali-codes.netlify.app">
+  <a href="TBA">
     <img src="https://skillicons.dev/icons?i=java,python,js,c,postgresql,mongodb,express,nodejs,selenium" />
   </a>
 </p>
 <p align="center">
-  <a href="https://rupali-codes.netlify.app">
+  <a href="TBA">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,ros,bash,postman,androidstudio,eclipse,idea" />
   </a>
 </p>
