@@ -26,6 +26,7 @@
 </p>
 
 <!-- LeetCode Stats Card ❤️ -->
+<!--
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <h2 align="center"><img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
 <p align="center">
@@ -33,3 +34,4 @@
     <img width=60% src="https://leetcode.card.workers.dev/adnan_fahad1?theme=dark&font=baloo&extension=null&extension=activity&border_radius=10"/>
   </a>
 </p>
+-->
