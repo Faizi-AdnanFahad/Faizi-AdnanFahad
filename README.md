@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I'm a 4<sup>th</sup> year Computer Science student @Lassonde School of Engineering, York University located in Toronto, Ontario.
-- 🌱 I’m currently learning about Software Design and building compilers.
+- 🌱 I’m currently learning about Networking and its applications.
 - ⚡ Fun fact: I am an extremely ambitious and organized person.
 
 <h2 align="left">Connect with me:</h2>
