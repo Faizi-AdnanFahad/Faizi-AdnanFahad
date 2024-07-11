@@ -3,7 +3,8 @@
 ### Hi there 👋
 
 - 🔭 I'm a 4<sup>th</sup> year Computer Science student @Lassonde School of Engineering, York University located in Toronto, Ontario.
-- 🌱 I’m currently learning about Networking Protocols and their Applications.
+- 🧑‍💼 I'm currently working as Back-End Developer at IBM working on OpenLiberty and WebSphere Application Server.
+- 🌱 I’m currently learning about Compilers and Interpreters.
 - ⚡ Fun fact: I am an extremely ambitious and organized person.
 
 <h2 align="left">Connect with me:</h2>
